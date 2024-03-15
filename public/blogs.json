@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.im.ge/2024/03/15/Rj2nSm.1.jpeg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "john doe",
+      "author_img": "https://i.im.ge/2024/03/15/RjSq8F.boy1.png",
+      "posted_date": "2024-03-14",
+      "reading_time": 10,
+      "hashtags": ["storytelling", "art", "creative"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.im.ge/2024/03/15/Rj24Nr.2.png",
+      "title": "programming basics How to get your first job as a self-taught programmer",
+      "author": "jane smith",
+      "author_img": "https://i.im.ge/2024/03/15/RjSj8C.boy2.jpeg",
+      "posted_date": "2024-03-15",
+      "reading_time": 15,
+      "hashtags": ["programming", "basics", "coding"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.im.ge/2024/03/15/RjSoML.3.png",
+      "title": "cooking made easy How to get your first job as a self-taught programmer",
+      "author": "emily brown",
+      "author_img": "https://i.im.ge/2024/03/15/RjSDxX.girl1.jpeg",
+      "posted_date": "2024-03-16",
+      "reading_time": 8,
+      "hashtags": ["cooking", "recipes", "easy"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.im.ge/2024/03/15/RjSlEx.4.jpeg",
+      "title": "fitness fundamentals How to get your first job as a self-taught programmer",
+      "author": "michael lee",
+      "author_img": "https://i.im.ge/2024/03/15/RjSIJ8.girl2.jpeg",
+      "posted_date": "2024-03-17",
+      "reading_time": 12,
+      "hashtags": ["fitness", "health", "exercise"]
+    }
+  ]
+  
